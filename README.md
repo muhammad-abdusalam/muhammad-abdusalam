@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate Web developer from Egypt ❤️</h3>
+<h3 align="center">A passionate Web developer ❤️</h3>
 <img width="400" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc2MWNiMjY1OWIwMTVjZmZjMzJjNjhiMTM3YmI1ZGU0NWUzNzlmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abdusalam&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abdusalam" /> </p>
