@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-abdusalam&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-abdusalam" /> </p>
 
-- 🌱 I’m currently learning **Security**
+- 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **MERN stack**
 
